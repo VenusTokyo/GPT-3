@@ -23,7 +23,7 @@ const Navbar = () => {
         <button type='button'>Sign Up</button>
       </div>
       <div className="gpt3__navbar-menu">
-        
+        menu
       </div>
     </div>
   )
