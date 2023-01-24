@@ -97,6 +97,7 @@
 .gpt3__navbar-menu_container-links-sign{
     display: none;
 }
+/* for diffrent screen sizes */
 @media screen and (max-width: 1050px)
 {
     .gpt3__navbar-links_container{
