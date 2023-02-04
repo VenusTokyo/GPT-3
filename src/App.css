@@ -6,7 +6,7 @@
 }
 body{
     background: var(--color-bg);
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 a{
     color: unset;
