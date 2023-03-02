@@ -1,5 +1,5 @@
 # GPT 3 website :tada:
-A fully responsive modern website
+A fully responsive modern website (frontend) 🪄
 ## Live Demo :star: -> [Link](https://gpt3-venustokyo.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/66830887/222144702-fab3fbcf-113c-4aa4-b571-8f679c3778dd.png)
